@@ -1,2 +1,3 @@
 # rn-geospatial-arcore-sample
-React native sample arcore geospatial 
+
+React native sample arcore with geospatial api
